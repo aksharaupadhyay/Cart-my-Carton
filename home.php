@@ -15,13 +15,6 @@ include("connectivity.php");
     <style>
 .mySlides {display: none;}
 img {vertical-align: center;}
-
-		/*body {
- 			background-image: url('images/img.jpg');
-  			background-repeat: no-repeat;
-  			background-attachment: fixed; 
-  			background-size: 100% 100%;
-		}*/
 	
 /* Slideshow container */
 .slideshow-container {
@@ -30,17 +23,6 @@ img {vertical-align: center;}
   margin: auto;
 }
 
-/* Caption text */
-/*.text {
-  color: black;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-}
-*/
 .active{
     background-color:#CA226B;
     }
